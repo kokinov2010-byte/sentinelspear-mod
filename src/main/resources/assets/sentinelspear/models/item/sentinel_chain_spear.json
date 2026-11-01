@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "sentinelspear:item/sentinel_chain_spear"
+  }
+}
